@@ -1,0 +1,15 @@
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ChessBoard.csproj.AssemblyReference.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ChessBoard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ChessBoard.AssemblyInfoInputs.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ChessBoard.AssemblyInfo.cs
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ChessBoard.csproj.CoreCompileInputs.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/bin/Debug/net6.0/ChessBoard
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/bin/Debug/net6.0/ChessBoard.deps.json
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/bin/Debug/net6.0/ChessBoard.runtimeconfig.json
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/bin/Debug/net6.0/ChessBoard.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/bin/Debug/net6.0/ChessBoard.pdb
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ChessBoard.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/refint/ChessBoard.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ChessBoard.pdb
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ChessBoard.genruntimeconfig.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 02 - Chess Board/ChessBoard/ChessBoard/obj/Debug/net6.0/ref/ChessBoard.dll
